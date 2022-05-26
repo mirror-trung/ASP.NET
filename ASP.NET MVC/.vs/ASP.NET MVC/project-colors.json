@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "604949e7-3588-42bc-935f-4b8d627ae578": {
+      "ProjectGuid": "604949e7-3588-42bc-935f-4b8d627ae578",
+      "DisplayName": "Index",
+      "ColorIndex": 0
+    },
+    "193e7000-6234-4d8d-8bb9-0af323924057": {
+      "ProjectGuid": "193e7000-6234-4d8d-8bb9-0af323924057",
+      "DisplayName": "Programs",
+      "ColorIndex": 1
+    },
+    "0011e1b8-9439-4c78-ae00-3456db54647f": {
+      "ProjectGuid": "0011e1b8-9439-4c78-ae00-3456db54647f",
+      "DisplayName": "Cheats",
+      "ColorIndex": 2
+    },
+    "fc969ee5-5fe7-4eae-ba73-c57c3cfd5a90": {
+      "ProjectGuid": "fc969ee5-5fe7-4eae-ba73-c57c3cfd5a90",
+      "DisplayName": "Description",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
